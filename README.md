@@ -1,2 +1,2 @@
-# k8s-operator-
-from gcr pull related images 
+# Spark-operator-on-k8s
+from gcr pull spark-operator images 
